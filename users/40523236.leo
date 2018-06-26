@@ -508,8 +508,11 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
+
 Created by [黃碩傑](http://chiamingyen.github.io/kmolab/blog/)
+
 &lt;/small&gt;
+
 [個人Vimeo](https://vimeo.com/home/myvideos)
 
 [40523236](blog/index.html)
