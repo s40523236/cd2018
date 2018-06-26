@@ -145,7 +145,7 @@ vertical: body pane on the botton</t>
 <t tx="yen.20170108171733.10">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-學員 40523219 投影片
+學員 40523236 投影片
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
