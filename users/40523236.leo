@@ -33,7 +33,7 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180626205450.1" a="E"><vh>W1</vh>
@@ -48,13 +48,11 @@
 <v t="leo.20180626205458.1" a="E"><vh>W5</vh>
 <v t="leo.20180626205458.2"><vh>W5</vh></v>
 </v>
-<v t="leo.20180626205500.1" a="E"><vh>W6</vh>
+<v t="leo.20180626205500.1"><vh>W6</vh>
 <v t="leo.20180626205500.2"><vh>W6</vh></v>
 </v>
 <v t="leo.20180626205501.1" a="E"><vh>W7</vh>
-<v t="leo.20180626205501.2" a="E"><vh>期中報告</vh>
-<v t="leo.20180626210507.1"><vh>期中報告</vh></v>
-</v>
+<v t="leo.20180626205501.2"><vh>期中報告</vh></v>
 </v>
 <v t="leo.20180626205505.1" a="E"><vh>W9</vh>
 <v t="leo.20180626205505.2"><vh>自評成績</vh></v>
@@ -66,9 +64,7 @@
 <v t="leo.20180626203044.2"><vh>W11</vh></v>
 </v>
 <v t="leo.20180626203755.1" a="E"><vh>W12</vh>
-<v t="leo.20180626203755.2" a="E"><vh>W12</vh>
-<v t="leo.20180626204300.1"><vh>W12</vh></v>
-</v>
+<v t="leo.20180626203755.2"><vh>W12</vh></v>
 </v>
 <v t="leo.20180626204752.1" a="E"><vh>W14</vh>
 <v t="leo.20180626204752.2"><vh>W14</vh></v>
@@ -157,16 +153,14 @@
 
 * 完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖。
 
-
-
-</t>
-<t tx="leo.20180626204300.1">##W12
-
 [繪製靜態正齒輪](https://s40523236.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
 
 [繪製靜態組合正齒輪](https://s40523236.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
 
 [繪製組合轉動正齒輪](https://s40523236.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+
+
+
 </t>
 <t tx="leo.20180626204752.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -313,11 +307,6 @@
 <t tx="leo.20180626205505.2">##自評成績
 
 ##60
-
-</t>
-<t tx="leo.20180626210507.1">##W7 
-
-* 搞虛的人不必做實,原因是因為模擬接近事實及實事所以做虛的人不必做實但做實的人不會搞虛所以他們一定要做出來才能知道東西的好壞
 
 </t>
 <t tx="leo.20180626211337.1">&lt;section data-markdown&gt;
@@ -524,7 +513,9 @@ vertical: body pane on the botton</t>
 Created by [黃碩傑](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 [個人Vimeo](https://vimeo.com/home/myvideos)
+
 [40523236](blog/index.html)
+
 [youtube](https://www.youtube.com/channel/UCZbq9JF5xLXoWeW-gpT7otg?view_as=subscriber)
 
     &lt;/script&gt;
