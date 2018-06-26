@@ -131,7 +131,6 @@
 
 * 完成二連桿機構後每個人嘗試三連桿機構並拍影片傳到用學校信箱的youtube,之後在W10的下面再回報
 
-* 40523236 黃碩傑(三連桿機構)
 
 &lt;div style="position:relative;height:0;padding-bottom:56.21%"&gt;&lt;iframe src="https://www.youtube.com/embed/WyoS04yPlGM?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
@@ -178,7 +177,6 @@
 * 設計是依連串問題解決的過程
 * 工程設計的結果應該是可以讓人依循且得到設計者所預期的結果
 * 協同是多人協力一同 試圖達到特定目標
-* cd_w14_bg9
 
 &lt;div style="position:relative;height:0;padding-bottom:56.21%"&gt;&lt;iframe src="https://www.youtube.com/embed/as-OyFf4CXU?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
